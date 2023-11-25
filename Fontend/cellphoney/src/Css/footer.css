@@ -1,0 +1,19 @@
+/* .main-footer{
+    background-color:rgb(236, 233, 233);
+    height: 185px;
+    margin-top: 20px;
+    padding-top: 20px;
+} */
+.main-footer {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    /* position: fixed; */
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }

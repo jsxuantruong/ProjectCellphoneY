@@ -1,0 +1,39 @@
+.menu-right{
+    height: 418px;
+    width: 200px;
+    background-color: #FFFFFF;
+    font-size: 15px;
+    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
+margin-bottom: 5px ;
+border-radius: 10px;
+
+}
+.main-menu{
+    padding-top: 10px;
+}
+.col-md-3.col-sm-6 ul.list-unstyled li {
+    white-space: nowrap;
+    margin-bottom: 10px;
+}
+.col{
+    height: 400px;
+    margin-bottom: 5px ;
+    border-radius: 10px;
+   
+}
+.img{
+    height: 400px;
+    border-radius: 10px;
+}
+.img-banner{
+    height: 135px;
+    width: 120px;
+    padding-bottom: 10px;
+}
+.img-bottom{
+    margin-top: 10px;
+   height: 90px;
+   width: 100%;
+   border-radius: 10px;
+   
+}
